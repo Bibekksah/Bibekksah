@@ -56,9 +56,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:maurodesouz?theme=booru-r6gdrawfriends&padding=5&scale=1&align=center&pixelated=1&darkmode=1"  />
-</div>
+
 
 ###
 
@@ -71,6 +69,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:maurodesouz?theme=booru-r6gdrawfriends&padding=5&scale=1&align=center&pixelated=1&darkmode=1"  />
+</div>
+
+###
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=2&stroke=-&descSize=20&descAlign=51&descAlignY=54&color=gradient"  />
 </div>
